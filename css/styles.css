@@ -11268,3 +11268,7 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+.blog-text p {
+  margin-bottom: 1rem !important;
+}
